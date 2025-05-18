@@ -1,0 +1,41 @@
+# macOS system files
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.xccheckout
+
+# Workspace
+*.xcworkspace
+
+# SwiftPM
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# (остввить)
+# Podfile.lock
+
+# Firebase config 
+GoogleService-Info.plist
+
+# Carthage
+carthage/
+
+# Fastlane 
+fastlane/report.xml
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
